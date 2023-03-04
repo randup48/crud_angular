@@ -1,1 +1,17 @@
 /* You can add global styles to this file, and also import other style files */
+/* @tailwind base; */
+@tailwind components;
+@tailwind utilities;
+
+// // Required
+// @import "../node_modules/bootstrap/scss/functions";
+
+// // Default variable overrides
+// $primary: #ff69b4;
+
+// // Required
+// @import "../node_modules/bootstrap/scss/variables";
+// @import "../node_modules/bootstrap/scss/variables-dark";
+// @import "../node_modules/bootstrap/scss/maps";
+// @import "../node_modules/bootstrap/scss/mixins";
+// @import "../node_modules/bootstrap/scss/root";
